@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpringBreakChooser</string>
+    <string-array name="language_list">
+        <item>English</item>
+        <item>Chinese</item>
+        <item>Italian</item>
+        <item>French</item>
+    </string-array>
+</resources>
